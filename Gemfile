@@ -72,3 +72,10 @@ group :test do
 end
 
 gem 'sprockets-rails'
+
+# devise追加
+gem 'devise'
+# bootstrap追加
+gem 'bootstrap', '~> 4.4.1'
+# bootstrapを動かすために導入
+gem 'jquery-rails'
